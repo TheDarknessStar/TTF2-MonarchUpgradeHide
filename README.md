@@ -1,2 +1,2 @@
 # TTF2-MonarchUpgradeHide
-Emperor upgrade tips to hide mods
+Hide upgrade tips when your Regal Titan 3 upgrades are complete
