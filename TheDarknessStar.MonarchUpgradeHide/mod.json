@@ -1,0 +1,6 @@
+{
+	"Name" : "TheDarknessStar.MonarchUpgradeHide",
+	"Description" : "帝王升级1-3完成之后,进行隐藏升级1-3 + 顶尖升级",
+	"Version": "1.0.3",
+	"LoadPriority": 4
+}
